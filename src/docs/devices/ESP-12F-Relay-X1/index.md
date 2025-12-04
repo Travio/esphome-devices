@@ -57,7 +57,7 @@ Left header:
 | GPIO5  | drives relay via R14                         |
 | GPIO4  |                                              |
 | GPIO0  |                                              |
-| GPIO2  |                                              |
+| GPIO2  | blue led                                     |
 | GPIO15 |                                              |
 | Relay  | once R14 removed, can be bridged to any GPIO |
 | SCLK   |                                              |
